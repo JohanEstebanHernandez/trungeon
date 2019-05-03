@@ -46,6 +46,7 @@ class mapa {
   int dib(boolean ar, boolean ab, boolean de, boolean iz) {//tras = posicion
 
 //COLISIONES INICIO---------------------------------------------------------
+//                            ACAAAAAAAAAAAAAAAAAAAAAA
 
     x = int((width/2-trasX)/cX);
     y = int((height/2-trasY)/cY);
